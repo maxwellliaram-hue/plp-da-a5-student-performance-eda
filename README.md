@@ -9,7 +9,7 @@ pip install -r requirements.txt
 python generate_data.py              # creates student_performance.csv
 jupyter notebook student_eda.ipynb   # Kernel > Restart & Run All
 ```
-Charts are saved to `figures/`.
+The five chart PNGs are stored in the repository root. Running the notebook again regenerates them there.
 
 ## Five key insights
 1. Only 8.2% of learners (99 of 1,200) are At Risk; 56.0% are Meeting and 35.8% Exceeding.
